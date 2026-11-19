@@ -86,6 +86,15 @@ out vs UCLA.
   Russia = white-blue-red (was already correct). Verified by zoom crop.
 - Kahana removed (see correction above).
 
+## Fixes v5 (19 Nov 12:21 WIB, HQ-N19C-#3, ronde yang sama dengan #2)
+
+- Semua 15 pin peta tadinya MERAH, padahal legenda region memakai 6
+  warna. Kini setiap pin berwarna sesuai region-nya: Asia merah (1, 7,
+  11, 12, 15), Eropa biru (5, 10), Mideast coklat (3, 4, 13), Afrika
+  hijau (8, 14), Oseania teal (6, 9), N. America ungu (2). Angka kunci
+  di MAP KEY ikut warna yang sama. Angka putih tetap terbaca di semua
+  warna (dicek crop zoom).
+
 ## Traps avoided during audit
 
 - Pew "Islam largest faith by 2035" and Jeffries Speaker nomination
