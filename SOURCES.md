@@ -24,8 +24,16 @@ excluded from the page and are named in the DATE CHECK box instead.
   site on Qeshm; tanker struck in Hormuz (UKMTO 212, 00:49 19 Nov).
 - ICJ delivers Rohingya genocide ruling, The Hague 10:00 local 19 Nov
   (outcome not claimed — the delivery is the event).
-- Herzog taps Eisenkot to form government; Kahana elected Knesset
-  speaker, 66 votes (Paris Eye 19 Nov 02:13).
+- Herzog picks Eisenkot over Netanyahu to form a government; Eisenkot
+  gets 28 days (possible 14-day extension) to build a coalition.
+  Sourced from 19 Nov-dated reports: Paris Eye 19 Nov 06:14, Jingletree
+  published 19 Nov 08:07+06.
+  CORRECTION (v4, 19 Nov 12:19 WIB): the earlier deck said "Knesset
+  elects Kahana speaker with 66 votes" — WRONG DATE. Reuters 17 Nov
+  confirms Matan Kahana was elected Knesset speaker on TUESDAY 17 Nov
+  (66–52). Kahana is removed from the page entirely; he appears nowhere
+  in the entry now. The 19 Nov briefings that bundled him into 19 Nov
+  news were unreliable on dates — same trap as the 18 Nov audit.
 - Australia, Canada, Italy, UK demand Gaza aid access as floods worsen
   (Paris Eye 19 Nov 02:13).
 - Ethiopia–Eritrea forces mass on border; clashes claimed near Badme
@@ -68,6 +76,15 @@ out vs UCLA.
 - Peltola won Alaska's Senate seat (18 Nov).
 - Trump arrived in Shenzhen (18 Nov).
 - Kerch Bridge hit for a second day (18 Nov).
+
+## Fixes v4 (19 Nov 12:19 WIB, HQ-N19C-#2)
+
+- Feature 1 flags were WRONG: the US flag was drawn as red-white-red
+  bars (read as Latvia/Austria) and the China flag as plain red.
+  Redrawn: USA = stars and stripes (7 stripes + blue canton with
+  stars); China = red with one large yellow star + 4 small stars;
+  Russia = white-blue-red (was already correct). Verified by zoom crop.
+- Kahana removed (see correction above).
 
 ## Traps avoided during audit
 
